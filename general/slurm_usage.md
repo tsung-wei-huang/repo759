@@ -1,4 +1,4 @@
-# Slurm Usage for ME759
+# Slurm Usage
 
 ### Ground Rules
 * All programs that _you_ write need to be run using Slurm with a Slurm script. Do not run them on the login node (you are on the login node if you see `@euler` in your command prompt).
