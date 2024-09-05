@@ -3,6 +3,7 @@
 You will be asked to time various operations programmed on various HPC hardware. Below are the two methods that we will use for doing this timing. You should use the appropriate method for the programming task (unless the task specifies a timing method explicitly).
 
 ### CPU Programs
+
 For timing CPU programs, we will use C++ support for `high_resolution_clock`. Here's an example which benchmarks a trivial calculation. Please note that on a system as powerful as Euler, the calculation used here still won't take long enough to capture reasonable results unless it runs for many iterations. The following method works on any combination of compiler and operating system with C++11 support enabled, so it will be especially helpful for those of you who prefer to develop your code on Windows before moving it to Euler.
 
 ```C++
