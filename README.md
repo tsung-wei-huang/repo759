@@ -1,4 +1,4 @@
-# CS/ECE/ME/EP/EMA759 - Fall 2024
+# CS/ECE/ME/EP/EMA759 - Fall 2026
 
 ## Material shared with the students
   - resources for how to use git, work on your assignment, etc.
